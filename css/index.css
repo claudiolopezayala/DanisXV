@@ -1,0 +1,6 @@
+body{
+    background-image: url(../imgs/leftTMP.jpg), url(../imgs/rightTMP.jpg);
+    background-position: left top, right top;
+    background-repeat: repeat-y, repeat-y;
+    background-size: 50%, 50%;
+}
